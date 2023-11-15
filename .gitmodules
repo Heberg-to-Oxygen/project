@@ -1,0 +1,3 @@
+[submodule "zabbix-web-monitoring"]
+	path = zabbix-web-monitoring
+	url = https://github.com/Heberg-to-Oxygen/zabbix-web-monitoring
